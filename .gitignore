@@ -9,9 +9,6 @@ __pycache__/
 
 template.py
 
-# Dataset
-*.csv
-
 artifacts/
 
 backend/
